@@ -1,0 +1,53 @@
+# משכנתאות ופיננסים — Generative Engine Optimization Map
+
+> A financial services business.
+
+---
+
+## Pages
+
+### Home
+https://-53c611e1.zappy5.app
+
+### Services
+https://-53c611e1.zappy5.app/services
+
+### About
+https://-53c611e1.zappy5.app/about
+
+### Contact
+https://-53c611e1.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-53c611e1.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-53c611e1.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-53c611e1.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About משכנתאות ופיננסים
+משכנתאות ופיננסים is a business in the financial services industry.
+
+## Target Audience
+clients seeking custom mortgage solutions
+
+## Industry
+financial services
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-53c611e1.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-53c611e1.zappy5.app/robots.txt
